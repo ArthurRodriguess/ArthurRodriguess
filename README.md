@@ -3,6 +3,9 @@
 1️⃣ Atualmente não trabalho para nenhuma empresa ainda pois estou começando
 
 2️⃣ Estou aprendendo Python no momento
+
+3️⃣ Estou cursando Análise e Desenvolvimento de Sistemas, 1º período.
+
 <div align="center">
   <a href="https://github.com/ArthurRodriguess">
   <img height="260em" src="https://github-readme-stats.vercel.app/api?username=ArthurRodriguess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
